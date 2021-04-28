@@ -1,5 +1,7 @@
 # db_marketplace
 
+#Note: db_marketplace database would not export with create schema function. Create schema 'db_marketplace' in MySQL before importing db_marketplace_dump.zip.
+
 1. Online Marketplace Project
 2. Team Root (Group #1)
 3. Andrew Mou, Marco Tortolani, Emily Wang, Xinyu Wu - Section 3 
