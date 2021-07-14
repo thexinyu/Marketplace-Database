@@ -5,7 +5,7 @@
 1. Online Marketplace Project
 2. Team Root (Group #1)
 3. Andrew Mou, Marco Tortolani, Emily Wang, Xinyu Wu - Section 3 
-4. Our project is focused on the implementation of an online marketplace similar to Amazon in which there are many shops that each sell an assortment of items.  There are many users that can visit many shops.  Each user can place multiple items into a cart to purchase.  Each item also belongs to a specific category such as “electronics” or “books”.  Such an implementation is designed to create an efficient way of organizing customer data and purchases into a database of an online marketplace.
+4. Our project is focused on the implementation of an online marketplace similar to Amazon in which there are many shops that each sell an assortment of items.  There are many users who can visit many shops.  Each user can place multiple items into a cart to purchase.  Each item also belongs to a specific category such as “electronics” or “books”.  Such an implementation is designed to create an efficient way of organizing customer data and purchases into a database of an online marketplace.
 5. https://lucid.app/lucidchart/b498bab7-81e6-472d-8064-71b43d038cae/edit?shared=true&page=0_0#   - Old Version (with more classes)
     https://lucid.app/lucidchart/e7b38e70-ca1c-402d-9b02-3935aa11dbd3/edit?shared=true&page=0_0#    - New Version (updated with fewer classes)
   PDF attached with our submission
